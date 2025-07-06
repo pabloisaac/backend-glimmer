@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "cat1",
+    "name": "Decoración",
+    "description": "Objetos decorativos como floreros, cuadros, adornos"
+  },
+  {
+    "_id": "cat2",
+    "name": "Iluminación",
+    "description": "Lámparas de mesa, colgantes y luces LED"
+  },
+  {
+    "_id": "cat3",
+    "name": "Textiles",
+    "description": "Alfombras, mantas, almohadones"
+  }
+]

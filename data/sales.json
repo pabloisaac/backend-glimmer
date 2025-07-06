@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "sale1",
+    "date": "2025-06-01T12:00:00",
+    "items": [
+      { "productId": "prod1", "quantity": 2 },
+      { "productId": "prod2", "quantity": 1 }
+    ],
+    "paymentMethod": "EFECTIVO",
+    "status": "PROCESADA"
+  },
+  {
+    "_id": "sale2",
+    "date": "2025-06-03T14:30:00",
+    "items": [
+      { "productId": "prod3", "quantity": 1 }
+    ],
+    "paymentMethod": "TARJETA_CREDITO",
+    "status": "CANCELADA"
+  }
+]

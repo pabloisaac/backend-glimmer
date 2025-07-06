@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "prod1",
+    "code": "P001",
+    "name": "Florero de Cerámica",
+    "quantity": 10,
+    "costPrice": 1000,
+    "listPrice": 0,
+    "cashPrice": 0,
+    "transferPrice": 0,
+    "imageUrl": "https://via.placeholder.com/150",
+    "detail": "Florero blanco, ideal para mesas",
+    "categoryId": "cat1"
+  },
+  {
+    "_id": "prod2",
+    "code": "P002",
+    "name": "Cuadro Abstracto",
+    "quantity": 5,
+    "costPrice": 2500,
+    "listPrice": 0,
+    "cashPrice": 0,
+    "transferPrice": 0,
+    "imageUrl": "https://via.placeholder.com/150",
+    "detail": "Obra en lienzo 40x60cm",
+    "categoryId": "cat1"
+  },
+  {
+    "_id": "prod3",
+    "code": "P003",
+    "name": "Lámpara Vintage",
+    "quantity": 7,
+    "costPrice": 3500,
+    "listPrice": 0,
+    "cashPrice": 0,
+    "transferPrice": 0,
+    "imageUrl": "https://via.placeholder.com/150",
+    "detail": "Lámpara colgante estilo retro",
+    "categoryId": "cat2"
+  }
+]
